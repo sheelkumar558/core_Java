@@ -1,0 +1,7 @@
+jvm -- java virtual machine
+jre -- java runtime envirment
+os -- window
+    -- javacode
+    --compailer(javac)
+    -- byte code
+public static main (String a[])
