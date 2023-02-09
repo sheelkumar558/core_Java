@@ -5,3 +5,14 @@ os -- window
     --compailer(javac)
     -- byte code
 public static main (String a[])
+
+data type
+   --primitive
+         --Integer   --byte,short,Integer
+         --float     --double,float
+         --chractor
+         --boolean
+masai-school------
+
+String class
+  -- string type
