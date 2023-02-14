@@ -58,3 +58,5 @@ class StringDemo {
 //append()
 //toString();
 
+//java code
+
