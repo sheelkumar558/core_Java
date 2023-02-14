@@ -39,6 +39,22 @@ class StringDemo {
    //replace
    //split  s="a,b,c"; s.split(",")
    //s7=s5.toCharArray();
-   //string are immutable
+   //string are immutable--chenged
    }
 }
+
+//immutable--chenged
+//s="xyz";
+//s=s+"skfjapgj";
+//ans =xyzskfj...
+
+//concat method
+
+//reason for immutability
+// 1. save sove space
+//2. every time create new variable
+
+// StringBuilder
+//append()
+//toString();
+
